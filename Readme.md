@@ -1,4 +1,4 @@
-# MFTrecover
+# MFT-Recover
 MFTrecover is a file recovery tool for the **Windows NTFS 3.1 file system**, used since Windows XP through the latest Windows 11.
 
 The tool works by parsing **Master File Table (MFT) entries** and directly accessing the raw volume to retrieve the data of deleted files.
@@ -78,5 +78,6 @@ MFTrecover.exe --recover D:
 ```
 
 (After running this, the program will ask how many files you want to recover and their names.)
+
 
 ---
